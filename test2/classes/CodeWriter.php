@@ -53,7 +53,7 @@ class CodeWriter
      */
     private function BuildCodeFormat(): string
     {
-        return "AI" . $this->GenerateCodeChars();
+        return "IA" . $this->GenerateCodeChars();
     }
 
     /**
