@@ -4,12 +4,17 @@ Code for building modern and responsive rate buttons on plain HTML/CSS (**TEST1*
 
 ### How To Run TEST1
 
-1) Go get both required packages listed below
+1) Move to the **test1** folder:
+```
+cd test1
+```
+
+2) Go get both required packages listed below
 ```
 npm install
 ```
 
-2) In order to compile new (or update update) existing **style.css** file
+3) In order to compile new (or update update) existing **style.css** file
 
 ```
 npm run build
@@ -17,7 +22,11 @@ npm run build
 
 
 ### How To Run TEST2
-1) Run following command for setting class autoloading and if necessary downloading required dependencies
+1) Move to the **test2** folder:
+```
+cd test2
+```
+2) Run following command for setting class autoloading and if necessary downloading required dependencies
 ```
 composer install
 ```
